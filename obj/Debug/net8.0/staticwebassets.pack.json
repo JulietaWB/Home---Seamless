@@ -13,12 +13,32 @@
       "PackagePath": "staticwebassets\\imagenes\\BANNERVERDE.png"
     },
     {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\bannerSALE.png",
       "PackagePath": "staticwebassets\\imagenes\\bannerSALE.png"
     },
     {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\bufandasale.png",
+      "PackagePath": "staticwebassets\\imagenes\\bufandasale.png"
+    },
+    {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\buscarimg.png",
       "PackagePath": "staticwebassets\\imagenes\\buscarimg.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\camisaarrivals.png",
+      "PackagePath": "staticwebassets\\imagenes\\camisaarrivals.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\camperacuero.png",
+      "PackagePath": "staticwebassets\\imagenes\\camperacuero.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\cardigan.png",
+      "PackagePath": "staticwebassets\\imagenes\\cardigan.png"
     },
     {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\carritoimagen.png",
@@ -33,8 +53,40 @@
       "PackagePath": "staticwebassets\\imagenes\\image-removebg-preview.png"
     },
     {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\jean.png",
+      "PackagePath": "staticwebassets\\imagenes\\jean.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\pantalonessale.png",
+      "PackagePath": "staticwebassets\\imagenes\\pantalonessale.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\pollera.png",
+      "PackagePath": "staticwebassets\\imagenes\\pollera.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\pollerasale.png",
+      "PackagePath": "staticwebassets\\imagenes\\pollerasale.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\remerasade.png",
+      "PackagePath": "staticwebassets\\imagenes\\remerasade.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\remerasale.png",
+      "PackagePath": "staticwebassets\\imagenes\\remerasale.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\sweater.png",
+      "PackagePath": "staticwebassets\\imagenes\\sweater.png"
+    },
+    {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\userimagen.png",
       "PackagePath": "staticwebassets\\imagenes\\userimagen.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\vestidolana.png",
+      "PackagePath": "staticwebassets\\imagenes\\vestidolana.png"
     },
     {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\js\\site.js",

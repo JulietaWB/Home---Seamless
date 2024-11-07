@@ -37,10 +37,10 @@ footer {
   border-top: 1px solid #e9ecef;
 }
 
-.fondo{
+main{
+  background-image: url("/imagenes/fondoSeamless.png");
   background-repeat: repeat-y;
-
-
+  background-size: 100% auto;
 }
 
 ul {

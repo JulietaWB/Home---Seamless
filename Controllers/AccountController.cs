@@ -16,7 +16,7 @@ public class Account : Controller
         }
         else 
         {
-            return RedirectToAction("PagBienvenida", "Home");
+            return RedirectToAction("Index", "Home");
         }
     }
 

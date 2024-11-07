@@ -27,3 +27,12 @@ Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.
 Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.genruntimeconfig.cache
 Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\ref\HomeSeamless.dll
 Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.sourcelink.json
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\Dapper.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\System.Data.SqlClient.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.csproj.AssemblyReference.cache
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeam.C956721F.Up2Date
