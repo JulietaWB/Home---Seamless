@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Olvide";
+}
+
+
+<h1> Recuperar Contraseña </h1>
+<h2>@ViewBag.MensajeError</h2>
+<form method="post" action= '@Url.Action("RecuperarContraseña", "Account")'> 
+    Correo Electrónico <input type="email" name="email"> 
+    <p> <input type="submit" value="ENVIAR">  </p>
+</form>
+
+@if (@ViewBag.Contra != null)
+{
+    <h3>Tu contraseña es: @ViewBag.Contra</h3>
+}
+
+
+<p> ¿No tenés una cuenta? </p>
+<a class="icon-link icon-link-hover" href='@Url.Action("Registro", "Home")'>
+  Registrarse
+  <svg class="bi" aria-hidden="true"><use xlink:href="#arrow-right"></use></svg>
+</a>

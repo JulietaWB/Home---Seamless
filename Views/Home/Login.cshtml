@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1> Inicia Sesión en Seamless </h1>
+<h2>@ViewBag.MensajeError </h2>
+<form method="post" action= '@Url.Action("ValidarUsuario", "Account")'> 
+    
+    Correo Electrónico <input type="email" name="email" required> 
+    Contraseña <input type="password" name="contra" required> 
+
+    <p> <input type="submit" value="ENVIAR">  </p>
+</form>
+
+<p> ¿Olvidaste tu contraseña? </p>
+<a class="icon-link icon-link-hover" href='@Url.Action("Olvide", "Home")'>
+  Recuperar mi contraseña
+  <svg class="bi" aria-hidden="true"><use xlink:href="#arrow-right"></use></svg>
+</a>
+
+<p> ¿No tenés una cuenta? </p>
+<a class="icon-link icon-link-hover" href='@Url.Action("Registro", "Home")'>
+  Registrarse
+  <svg class="bi" aria-hidden="true"><use xlink:href="#arrow-right"></use></svg>
+</a>
