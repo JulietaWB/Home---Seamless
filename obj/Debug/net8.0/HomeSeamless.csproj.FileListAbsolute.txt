@@ -26,3 +26,4 @@ Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\refint\HomeSe
 Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.pdb
 Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.genruntimeconfig.cache
 Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\ref\HomeSeamless.dll
+Z:\2024\Programación\HomedeSeamless\HomeSeamless\obj\Debug\net8.0\HomeSeamless.sourcelink.json

@@ -17,4 +17,28 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    public IActionResult Login(string error = "")
+    {
+        ViewBag.MensajeError = error;
+        return View();
+    }
+
+    public IActionResult Registro(string error = "")
+    {
+        ViewBag.MensajeError = error;
+        return View();
+    }
+
+    public IActionResult PagBienvenida()
+    {
+        return View();
+    }
+
+    public IActionResult Olvide(string error = "", string contra = "")
+    {
+        ViewBag.MensajeError = error;
+        ViewBag.Contra = contra;
+        return View();
+    }
 }

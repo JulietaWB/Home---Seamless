@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeSeamless")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ed2b37ca07001b9643fb176d3a9ba82083e823")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeSeamless")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeSeamless")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
