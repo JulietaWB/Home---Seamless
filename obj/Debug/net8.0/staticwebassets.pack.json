@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\BANNERVERDE.png",
+      "PackagePath": "staticwebassets\\imagenes\\BANNERVERDE.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\bannerSALE.png",
+      "PackagePath": "staticwebassets\\imagenes\\bannerSALE.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\buscarimg.png",
+      "PackagePath": "staticwebassets\\imagenes\\buscarimg.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\carritoimagen.png",
+      "PackagePath": "staticwebassets\\imagenes\\carritoimagen.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\fondoSeamless.png",
+      "PackagePath": "staticwebassets\\imagenes\\fondoSeamless.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\image-removebg-preview.png",
+      "PackagePath": "staticwebassets\\imagenes\\image-removebg-preview.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\userimagen.png",
+      "PackagePath": "staticwebassets\\imagenes\\userimagen.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HomeSeamless.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HomeSeamless.props",
+      "PackagePath": "build\\HomeSeamless.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeSeamless.props",
+      "PackagePath": "buildMultiTargeting\\HomeSeamless.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HomeSeamless.props",
+      "PackagePath": "buildTransitive\\HomeSeamless.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
