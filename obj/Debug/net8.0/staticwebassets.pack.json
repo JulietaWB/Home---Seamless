@@ -49,12 +49,20 @@
       "PackagePath": "staticwebassets\\imagenes\\fondoSeamless.png"
     },
     {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\foto_LOGIN.jpg"
+    },
+    {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\image-removebg-preview.png",
       "PackagePath": "staticwebassets\\imagenes\\image-removebg-preview.png"
     },
     {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\jean.png",
       "PackagePath": "staticwebassets\\imagenes\\jean.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\logo.png",
+      "PackagePath": "staticwebassets\\imagenes\\logo.png"
     },
     {
       "Id": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\pantalonessale.png",

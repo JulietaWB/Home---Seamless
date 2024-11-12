@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i48jc+uG1MUCtzLHhZ0FW7r89zqng5NIP4yOgZEP9S4=",
+  "Hash": "prv1aS8cJtj4YsnJHYGg4dFq0CrfcagGd4TMPUMrQ8k=",
   "Source": "HomeSeamless",
   "BasePath": "_content/HomeSeamless",
   "Mode": "Default",
@@ -226,6 +226,25 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\fondoSeamless.png"
     },
     {
+      "Identity": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\",
+      "BasePath": "_content/HomeSeamless",
+      "RelativePath": "imagenes/foto_LOGIN.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\foto_LOGIN.jpg"
+    },
+    {
       "Identity": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\image-removebg-preview.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
@@ -262,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\jean.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\logo.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\",
+      "BasePath": "_content/HomeSeamless",
+      "RelativePath": "imagenes/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\logo.png"
     },
     {
       "Identity": "Z:\\2024\\Programación\\HomedeSeamless\\HomeSeamless\\wwwroot\\imagenes\\pantalonessale.png",
