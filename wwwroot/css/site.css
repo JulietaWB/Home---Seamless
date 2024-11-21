@@ -10,6 +10,15 @@ html {
   }
 }
 
+@font-face {
+  font-family: "dreamCottage";
+  src: url("/fonts/DreamCottage.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{  font-family: 'dreamCottage';}
+
 body {
   margin: 10px;
   padding: 10px;
@@ -153,7 +162,7 @@ form
 form h3
 {
   font-size: larger;
-  margin-bottom: 3%;
+  margin-bottom: 2%;
 }
 
 form input
@@ -164,10 +173,11 @@ form input
   margin-bottom: 5%;
 }
 
-.formulario a
+.formulario a, .cajaRegistro a
 {
   color: #5E0F0A;
   text-decoration: underline #5E0F0A;
+  text-align: center;
   margin:0%;
   padding:0%;
 }
@@ -182,10 +192,47 @@ form .boton
   border-radius: 20px;
   color: #E8D5A6;
   margin-left: 7%;
+  font-size: 22px;
 }
 
 .icon-link
 {
   margin:0%;
   padding:0%;
+}
+
+
+
+/* REGISTRO */
+
+.bodyRegistro
+{
+  display: flex;
+  justify-content: center;
+}
+
+.cajaRegistro
+{
+  width:50%;
+  height:auto;
+  background-color: #f8f9fadc;
+  padding:5%;
+  margin:4%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 20px;
+}
+
+.cajaRegistro h1
+{
+  font-size:60px;
+  color:#5E0F0A;
+  text-align: center;
+  margin-bottom:5%;
+}
+
+.cajaRegistro a
+{
+  width:100%;
 }

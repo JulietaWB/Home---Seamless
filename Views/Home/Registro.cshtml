@@ -2,17 +2,32 @@
     ViewData["Title"] = "Registro";
 }
 
+<div class="bodyRegistro">
+    <div class="cajaRegistro">
+        <h1> Registrate en Seamless </h1>
+        <h2>@ViewBag.MensajeError </h2>
 
-<h1> Registrate en Seamless </h1>
-<h2>@ViewBag.MensajeError </h2>
+        <form method="post" action= '@Url.Action("GuardarUsuario", "Account")' onsubmit="return ValidarContraseña()"> 
+            <h3> Username </h3>
+            <input type="text" name="username" required>
 
-<form method="post" action= '@Url.Action("GuardarUsuario", "Account")' onsubmit="return ValidarContraseña()"> 
-    UserName <input type="text" name="username" required>
-    Correo Electrónico <input type="email" name="email" required> 
-    Teléfono <input type="tel" name="tel" required>
-    Nombre <input type="text" name="name" required>
-    Contraseña <input type="password" name="contra" id="contra" required onkeyup="ValidarContraseña()"> <p id="MostrarError" style="color:red;"></p>
-    Repita su contraseña <input type="password" name="contra2" id="contra2" required onkeyup="CompararContraseñas()"> <p id="MostrarError2" style="color:red;"></p>
-    <p> <input type="submit" value="ENVIAR">  </p>
+            <h3> Correo Electrónico </h3>
+            <input type="email" name="email" required> 
 
-</form>
+            <h3> Teléfono </h3>
+            <input type="tel" name="tel" required>
+
+            <h3> Nombre </h3>
+            <input type="text" name="name" required>
+
+            <h3> Contraseña </h3>
+            <input type="password" name="contra" id="contra" required onkeyup="ValidarContraseña()"> <p id="MostrarError" style="color:red;"></p>
+
+            <h3> Repita su contraseña </h3>
+            <input type="password" name="contra2" id="contra2" required onkeyup="CompararContraseñas()"> <p id="MostrarError2" style="color:red;"></p>
+
+            <p> <input class="boton" type="submit" value="Registrarme">  </p>
+
+        </form>
+    </div>
+</div>
