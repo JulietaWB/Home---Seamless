@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cd3jg3nfYa40TyLSW4HvzCU8qO7gXhTXz5qPJyibz08=",
+  "Hash": "kKjoRJuYXXytVtNZsvi30AQ2dUkWgxKFaCvKYLf6ADw=",
   "Source": "HomeSeamless",
   "BasePath": "_content/HomeSeamless",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HomeSeamless\\wwwroot",
       "Source": "HomeSeamless",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\css\\site.css",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\favicon.ico",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\bannerSALE.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\bannerSALE.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/bannerSALE.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\bannerSALE.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\BANNERVERDE.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\BANNERVERDE.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/BANNERVERDE.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\BANNERVERDE.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\bufandasale.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\bufandasale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/bufandasale.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\bufandasale.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\buscarimg.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\buscarimg.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/buscarimg.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\buscarimg.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\camisaarrivals.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\camisaarrivals.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/camisaarrivals.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\camisaarrivals.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\camperacuero.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\camperacuero.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/camperacuero.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\camperacuero.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\cardigan.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\cardigan.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/cardigan.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\cardigan.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\carritoimagen.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\carritoimagen.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/carritoimagen.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\carritoimagen.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\fondoSeamless.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\fondoSeamless.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/fondoSeamless.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\fondoSeamless.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/foto_LOGIN.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\foto_LOGIN.jpg"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\image-removebg-preview.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\image-removebg-preview.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/image-removebg-preview.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\image-removebg-preview.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\jean.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\jean.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/jean.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\jean.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\logo.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\logo.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/logo.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\logo.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\pantalonessale.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\pantalonessale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/pantalonessale.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\pantalonessale.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\pollera.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\pollera.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/pollera.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\pollera.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\pollerasale.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\pollerasale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/pollerasale.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\pollerasale.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\remerasade.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\remerasade.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/remerasade.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\remerasade.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\remerasale.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\remerasale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/remerasale.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\remerasale.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\sweater.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\sweater.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/sweater.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sweater.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\Thumbs.db",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\Thumbs.db",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/Thumbs.db",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\userimagen.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\userimagen.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/userimagen.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\userimagen.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\imagenes\\vestidolana.png",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\imagenes\\vestidolana.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/vestidolana.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\vestidolana.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\js\\site.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\Home---Seamless\\Home---Seamless\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Informatica\\Progra\\Home---Seamless\\wwwroot\\",
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
