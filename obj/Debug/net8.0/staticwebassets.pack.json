@@ -1,6 +1,7 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -146,6 +147,153 @@
     },
     {
       "Id": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\BANNERVERDE.png",
+      "PackagePath": "staticwebassets\\imagenes\\BANNERVERDE.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\bannerSALE.png",
+      "PackagePath": "staticwebassets\\imagenes\\bannerSALE.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\bufandasale.png",
+      "PackagePath": "staticwebassets\\imagenes\\bufandasale.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\buscarimg.png",
+      "PackagePath": "staticwebassets\\imagenes\\buscarimg.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\camisaarrivals.png",
+      "PackagePath": "staticwebassets\\imagenes\\camisaarrivals.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\camperacuero.png",
+      "PackagePath": "staticwebassets\\imagenes\\camperacuero.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\cardigan.png",
+      "PackagePath": "staticwebassets\\imagenes\\cardigan.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\carritoimagen.png",
+      "PackagePath": "staticwebassets\\imagenes\\carritoimagen.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\fondoSeamless.png",
+      "PackagePath": "staticwebassets\\imagenes\\fondoSeamless.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\foto_LOGIN.jpg"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\image-removebg-preview.png",
+      "PackagePath": "staticwebassets\\imagenes\\image-removebg-preview.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\jean.png",
+      "PackagePath": "staticwebassets\\imagenes\\jean.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\logo.png",
+      "PackagePath": "staticwebassets\\imagenes\\logo.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\pantalonessale.png",
+      "PackagePath": "staticwebassets\\imagenes\\pantalonessale.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\pollera.png",
+      "PackagePath": "staticwebassets\\imagenes\\pollera.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\pollerasale.png",
+      "PackagePath": "staticwebassets\\imagenes\\pollerasale.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\remerasade.png",
+      "PackagePath": "staticwebassets\\imagenes\\remerasade.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\remerasale.png",
+      "PackagePath": "staticwebassets\\imagenes\\remerasale.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\sweater.png",
+      "PackagePath": "staticwebassets\\imagenes\\sweater.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\userimagen.png",
+      "PackagePath": "staticwebassets\\imagenes\\userimagen.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\vestidolana.png",
+      "PackagePath": "staticwebassets\\imagenes\\vestidolana.png"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

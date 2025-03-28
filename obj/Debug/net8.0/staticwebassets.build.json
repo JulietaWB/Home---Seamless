@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "6XLlGFI+yW/imrZi2u08WSNxx0ilx65ACbnoeBmGH6Q=",
+=======
+  "Hash": "nzimIvHiD7IAPo8TBJwAEl5MbLJ5acGX/QxbqQuGnnc=",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
   "Source": "HomeSeamless",
   "BasePath": "_content/HomeSeamless",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "HomeSeamless\\wwwroot",
       "Source": "HomeSeamless",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\css\\site.css",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\css\\site.css",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +51,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\favicon.ico",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\favicon.ico",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +77,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\bannerSALE.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\bannerSALE.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/bannerSALE.png",
       "AssetKind": "All",
@@ -74,10 +103,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\bannerSALE.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\BANNERVERDE.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\BANNERVERDE.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/BANNERVERDE.png",
       "AssetKind": "All",
@@ -93,10 +129,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\BANNERVERDE.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\bufandasale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\bufandasale.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/bufandasale.png",
       "AssetKind": "All",
@@ -112,10 +155,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\bufandasale.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\buscarimg.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\buscarimg.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/buscarimg.png",
       "AssetKind": "All",
@@ -131,10 +181,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\buscarimg.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\camisaarrivals.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\camisaarrivals.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/camisaarrivals.png",
       "AssetKind": "All",
@@ -150,10 +207,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\camisaarrivals.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\camperacuero.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\camperacuero.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/camperacuero.png",
       "AssetKind": "All",
@@ -169,10 +233,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\camperacuero.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\cardigan.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\cardigan.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/cardigan.png",
       "AssetKind": "All",
@@ -188,10 +259,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\cardigan.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\carritoimagen.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\carritoimagen.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/carritoimagen.png",
       "AssetKind": "All",
@@ -207,10 +285,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\carritoimagen.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\fondoSeamless.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\fondoSeamless.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/fondoSeamless.png",
       "AssetKind": "All",
@@ -226,10 +311,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\fondoSeamless.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\foto_LOGIN.jpg",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/foto_LOGIN.jpg",
       "AssetKind": "All",
@@ -245,10 +337,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\foto_LOGIN.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\image-removebg-preview.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\image-removebg-preview.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/image-removebg-preview.png",
       "AssetKind": "All",
@@ -264,10 +363,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\image-removebg-preview.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\jean.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\jean.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/jean.png",
       "AssetKind": "All",
@@ -283,10 +389,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\jean.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\logo.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\logo.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/logo.png",
       "AssetKind": "All",
@@ -302,10 +415,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\logo.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\pantalonessale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\pantalonessale.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/pantalonessale.png",
       "AssetKind": "All",
@@ -321,10 +441,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\pantalonessale.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\pollera.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\pollera.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/pollera.png",
       "AssetKind": "All",
@@ -340,10 +467,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\pollera.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\pollerasale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\pollerasale.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/pollerasale.png",
       "AssetKind": "All",
@@ -359,10 +493,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\pollerasale.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\remerasade.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\remerasade.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/remerasade.png",
       "AssetKind": "All",
@@ -378,10 +519,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\remerasade.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\remerasale.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\remerasale.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/remerasale.png",
       "AssetKind": "All",
@@ -397,10 +545,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\remerasale.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\sweater.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\sweater.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/sweater.png",
       "AssetKind": "All",
@@ -416,10 +571,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sweater.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\Thumbs.db",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\Thumbs.db",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/Thumbs.db",
       "AssetKind": "All",
@@ -435,10 +597,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\Thumbs.db"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\userimagen.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\userimagen.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/userimagen.png",
       "AssetKind": "All",
@@ -454,10 +623,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\userimagen.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\imagenes\\vestidolana.png",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\imagenes\\vestidolana.png",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "imagenes/vestidolana.png",
       "AssetKind": "All",
@@ -473,10 +649,17 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\vestidolana.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\js\\site.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\js\\site.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -492,10 +675,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -511,10 +701,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -530,10 +727,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -549,10 +753,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -568,10 +779,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -587,10 +805,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -606,10 +831,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -625,10 +857,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -644,10 +883,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -663,10 +909,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -682,10 +935,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -701,10 +961,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HomeSeamless",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\wwwroot\\",
+=======
+      "Identity": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "HomeSeamless",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2025\\PF\\Home---Seamless\\wwwroot\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
       "BasePath": "_content/HomeSeamless",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

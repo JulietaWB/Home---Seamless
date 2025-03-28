@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\48387900\\Downloads\\Home---Seamless\\HomeSeamless.csproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\HomeSeamless.csproj",
         "packagesPath": "C:\\Users\\48387900\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\48387900\\Downloads\\Home---Seamless\\obj\\",
+=======
+    "Z:\\2025\\PF\\Home---Seamless\\HomeSeamless.csproj": {}
+  },
+  "projects": {
+    "Z:\\2025\\PF\\Home---Seamless\\HomeSeamless.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\2025\\PF\\Home---Seamless\\HomeSeamless.csproj",
+        "projectName": "HomeSeamless",
+        "projectPath": "Z:\\2025\\PF\\Home---Seamless\\HomeSeamless.csproj",
+        "packagesPath": "C:\\Users\\48311441\\.nuget\\packages\\",
+        "outputPath": "Z:\\2025\\PF\\Home---Seamless\\obj\\",
+>>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\48387900\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\48311441\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
