@@ -58,4 +58,36 @@ public static class BD
         }
     }
 
+    public static Producto SelectProducto (int id)   
+    {
+        using(SqlConnection conn = new SqlConnection(_ConnectionString))
+        {
+            string sql="SELECT * from Producto WHERE idProducto=@pid";
+            conn.Execute(sql, new {pid=id});
+        }
+    }
+
+    public static string BuscarProd (int id)
+    {
+        string existe = null;
+        using(SqlConnection conn = new SqlConnection(_ConnectionString))
+        {
+            string sql="SELECT idProucto from Proucto where idProucto=@pid";
+            existe = conn.QueryFirstOrDefault<string>(sql, new {pid=id});
+        }
+        return existe;
+    }
+
+    public static Producto SelectImagenes (int id)   
+    {
+        List <string> imagenes = new List <string>();
+        using(SqlConnection conn = new SqlConnection(_ConnectionString))
+        {
+            string sql="SELECT linkFotoProd from FotosProductos WHERE idProducto=@pid";
+            imagenes=conn.QueryFirstOrDefault<string>(sql, new {pid=id});
+        }
+        return imagenes;
+    }
+
+
 }

@@ -41,4 +41,12 @@ public class HomeController : Controller
         ViewBag.Contra = contra;
         return View();
     }
+
+    public IActionResult Producto(int id, string error = "")
+    {
+        Producto prodObj = ProductoController.RecibirProd(id);
+        ViewBag.MensajeError = error;
+        ViewBag.Imagenes=ProductoController.EncontrarImg(id);
+        return View();
+    }
 }
