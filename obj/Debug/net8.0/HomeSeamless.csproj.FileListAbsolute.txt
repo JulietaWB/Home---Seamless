@@ -191,3 +191,15 @@ Z:\2025\PF\Home---Seamless\obj\Debug\net8.0\HomeSeamless.pdb
 Z:\2025\PF\Home---Seamless\obj\Debug\net8.0\HomeSeamless.genruntimeconfig.cache
 Z:\2025\PF\Home---Seamless\obj\Debug\net8.0\ref\HomeSeamless.dll
 >>>>>>> e6015b3c26bd6b5910250ae7c9f73355e6a3c7e0
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.csproj.AssemblyReference.cache
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.AssemblyInfoInputs.cache
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.AssemblyInfo.cs
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.csproj.CoreCompileInputs.cache
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.MvcApplicationPartsAssemblyInfo.cache
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.RazorAssemblyInfo.cache
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.RazorAssemblyInfo.cs
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.sourcelink.json
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.dll
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\refint\HomeSeamless.dll
+Z:\Seamless Git\Home---Seamless\obj\Debug\net8.0\HomeSeamless.pdb

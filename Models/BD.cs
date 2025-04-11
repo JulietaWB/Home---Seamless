@@ -57,13 +57,16 @@ public static class BD
             conn.Execute(sql, new {pusername=username, pcontra=contra, pemail = email, ptel=tel, pname=name});
         }
     }
+    
+//PRODUCTOS
 
     public static Producto SelectProducto (int id)   
     {
+        Producto prod = new Producto();
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
         {
             string sql="SELECT * from Producto WHERE idProducto=@pid";
-            conn.Execute(sql, new {pid=id});
+            prod = conn.QueryFirstOrDefault<string>(sql, new {pid=id});
         }
     }
 
@@ -78,7 +81,7 @@ public static class BD
         return existe;
     }
 
-    public static Producto SelectImagenes (int id)   
+    public List<string> Producto SelectImagenes (int id)   
     {
         List <string> imagenes = new List <string>();
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
@@ -89,5 +92,13 @@ public static class BD
         return imagenes;
     }
 
+    public static void CrearProducto (int id, string nombre, string desc, int idVendedor, int idCategoria, int idTipoRopa, int precio)   
+    {
+        using(SqlConnection conn = new SqlConnection(_ConnectionString))
+        {
+            string sql="INSERT INTO Producto (idProducto, nombreProd, descProd, idVendedor, idCategoria, idTipoRopa, precioProd) VALUES (@pid, @pnombre, @pdesc, @pidVendedor, @pidCategoria, @pidTipoRopa, @pprecio)";
+            conn.Execute(sql, new {pid=id, pnombre=nombre, pdesc = desc, pidVendedor=idVendedor, pidCategoria=idCategoria, pidTipoRopa=idTipoRopa, pprecio,precio});
+        }
+    }
 
 }
