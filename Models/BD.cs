@@ -1,6 +1,6 @@
 using System.Data.SqlClient;
 using Dapper;
-namespace TP9LoginJS.Models;
+namespace HomeSeamless.Models;
 
 public static class BD
 {
@@ -65,9 +65,10 @@ public static class BD
         Producto prod = new Producto();
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
         {
-            string sql="SELECT * from Producto WHERE idProducto=@pid";
+            string sql="SELECT * from Producto WHERE IdProducto=@pid";
             prod = conn.QueryFirstOrDefault<string>(sql, new {pid=id});
         }
+        return prod;
     }
 
     public static string BuscarProd (int id)
@@ -75,7 +76,7 @@ public static class BD
         string existe = null;
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
         {
-            string sql="SELECT idProucto from Proucto where idProucto=@pid";
+            string sql="SELECT idProducto from Producto where idProducto=@pid";
             existe = conn.QueryFirstOrDefault<string>(sql, new {pid=id});
         }
         return existe;

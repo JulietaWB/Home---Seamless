@@ -19,4 +19,6 @@ public class Producto
         precioProd = precio_Prod;
      }
 
+     public Producto () {}
+
 }

@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using TP9LoginJS.Models;
+using HomeSeamless.Models;
 
 namespace TP9LoginJS.Controllers;
 

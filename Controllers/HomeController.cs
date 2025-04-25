@@ -44,9 +44,9 @@ public class HomeController : Controller
 
     public IActionResult Producto(int id, string error = "")
     {
-        Producto prodObj = ProductoController.RecibirProd(id);
+        Producto prodObj = Tienda.RecibirProd(id);
         ViewBag.MensajeError = error;
-        ViewBag.Imagenes=ProductoController.EncontrarImg(id);
+        ViewBag.Imagenes=Tienda.EncontrarImg(id);
         return View();
     }
 }
