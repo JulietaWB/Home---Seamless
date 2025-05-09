@@ -66,7 +66,7 @@ public static class BD
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
         {
             string sql="SELECT * from Producto WHERE IdProducto=@pid";
-            prod = conn.QueryFirstOrDefault<string>(sql, new {pid=id});
+            prod = conn.QueryFirstOrDefault<Producto>(sql, new {pid=id});
         }
         return prod;
     }
@@ -82,23 +82,21 @@ public static class BD
         return existe;
     }
 
-    public List<string> Producto SelectImagenes (int id)   
+    public static List<string> SelectImagenes(int id)
     {
-        List <string> imagenes = new List <string>();
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
         {
-            string sql="SELECT linkFotoProd from FotosProductos WHERE idProducto=@pid";
-            imagenes=conn.QueryFirstOrDefault<string>(sql, new {pid=id});
+            string sql = "SELECT linkFotoProd FROM FotosProductos WHERE idProducto=@pid";
+            return conn.Query<string>(sql, new { pid = id }).ToList();
         }
-        return imagenes;
     }
-
+    
     public static void CrearProducto (int id, string nombre, string desc, int idVendedor, int idCategoria, int idTipoRopa, int precio)   
     {
         using(SqlConnection conn = new SqlConnection(_ConnectionString))
         {
             string sql="INSERT INTO Producto (idProducto, nombreProd, descProd, idVendedor, idCategoria, idTipoRopa, precioProd) VALUES (@pid, @pnombre, @pdesc, @pidVendedor, @pidCategoria, @pidTipoRopa, @pprecio)";
-            conn.Execute(sql, new {pid=id, pnombre=nombre, pdesc = desc, pidVendedor=idVendedor, pidCategoria=idCategoria, pidTipoRopa=idTipoRopa, pprecio,precio});
+            conn.Execute(sql, new {pid=id, pnombre=nombre, pdesc = desc, pidVendedor=idVendedor, pidCategoria=idCategoria, pidTipoRopa=idTipoRopa, pprecio=precio});
         }
     }
 

@@ -4,8 +4,8 @@ using HomeSeamless.Models;
 
 namespace TP9LoginJS.Controllers;
 
-public class Producto : Controller
+/*public class Producto : Controller
 {
     [HttpPost]
 
-}
+}*/
