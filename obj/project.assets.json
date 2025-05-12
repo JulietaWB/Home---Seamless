@@ -505,24 +505,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\48311441\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\JSS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48311441\\Desktop\\Home---Seamless\\HomeSeamless.csproj",
+      "projectUniqueName": "C:\\Users\\JSS\\Desktop\\Escuela\\Home---Seamless\\HomeSeamless.csproj",
       "projectName": "HomeSeamless",
-      "projectPath": "C:\\Users\\48311441\\Desktop\\Home---Seamless\\HomeSeamless.csproj",
-      "packagesPath": "C:\\Users\\48311441\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48311441\\Desktop\\Home---Seamless\\obj\\",
+      "projectPath": "C:\\Users\\JSS\\Desktop\\Escuela\\Home---Seamless\\HomeSeamless.csproj",
+      "packagesPath": "C:\\Users\\JSS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JSS\\Desktop\\Escuela\\Home---Seamless\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\48311441\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\JSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -581,7 +576,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

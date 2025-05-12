@@ -15,24 +15,24 @@
     <!-- <div id="carouselExampleIndicators" class="carousel slide">
       
       <div class="carousel-indicators">
-        @int num=0
-        @foreach(img in @ViewBag.Imagenes)
+        int num=0
+        foreach(img in ViewBag.Imagenes)
         {
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to=@num class="active" aria-current="true"></button>
-          @num++
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to=num class="active" aria-current="true"></button>
+          num++
         }
         
       </div>
 
       <div class="carousel-inner">
 
-        @int num=0
-        @foreach(img in @ViewBag.Imagenes)
+        int num=0
+        foreach(img in ViewBag.Imagenes)
         {
           <div class="carousel-item">
             <img src="..." class="d-block w-100" alt="...">
           </div>          
-          @num++
+          num++
         }
        
       </div>

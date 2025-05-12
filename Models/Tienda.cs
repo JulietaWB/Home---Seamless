@@ -3,22 +3,20 @@ public static class Tienda {
 
     public static string EncontrarImg (int id)
         {
+            List <string> imagenes = new List <string>();
             if (BD.BuscarProd (id) != null)
             {
-                List <string> imagenes = new List <string>();
                 imagenes=BD.SelectImagenes(id);
-                return imagenes;
             }
-            
-            return RedirectToAction("Index", "Home");
+            return imagenes.FirstOrDefault();            
         }
 
         
     public static Producto RecibirProd (int id)
     {
+        Producto prodObj = new Producto();
         if (BD.BuscarProd (id) != null)
         {
-            Producto prodObj = new Producto();
             prodObj=BD.SelectProducto(id);
         }
         
